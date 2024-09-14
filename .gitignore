@@ -1,0 +1,4 @@
+#ignorar arquivo html
+*.html
+
+.Database.ipynb
